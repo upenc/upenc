@@ -8,13 +8,8 @@ I'm Upendra Chaturvedi, a passionate Data Analyst With focus on Python programmi
 - 💬 Ask me about: [Data Analysis, Python Programming]
 - 📫 How to reach me: [upendrachaturvedi20@gmail.com]
 
-## Projects
 
-Here are some projects I'm proud of:
 
-- [Project Name](link): Brief description.
-- [Project Name](link): Brief description.
-- [Project Name](link): Brief description.
 
 
 
@@ -29,6 +24,6 @@ Here are some projects I'm proud of:
 
 ## Connect with Me
 
-- LinkedIn: [Upendra Chaturvedi](linkedin.com/in/upenc07)
+- LinkedIn:(linkedin.com/in/upenc07)
 
 Let's connect and collaborate on exciting projects! 😊
