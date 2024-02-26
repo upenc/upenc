@@ -1,92 +1,64 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Upendra Chaturvedi's GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      background-color: #f0f0f0;
-      margin: 0;
-      padding: 0;
-    }
-    .container {
-      max-width: 800px;
-      margin: auto;
-      padding: 20px;
-    }
-    h1 {
-      text-align: center;
-      font-size: 28px;
-      color: #333;
-    }
-    .about-section {
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 5px;
-      margin-bottom: 20px;
-    }
-    .skills-section, .stats-section {
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 5px;
-      margin-bottom: 20px;
-    }
-    .connect-section {
-      background-color: #fff;
-      padding: 20px;
-      border-radius: 5px;
-      margin-bottom: 20px;
-      text-align: center;
-    }
-  </style>
-</head>
-<body>
-  <div class="container">
-    <!-- Hi there! 👋 I'm Upendra Chaturvedi -->
-    <h1>Hi there! 👋 I'm Upendra Chaturvedi</h1>
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100"/>
+</div>
+<div id="header" align="center">
+<div id="badges">
+  <a href="https://www.linkedin.com/in/upenc07/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+  <h1>
+ Hi there!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    I'm Upendra Chaturvedi
+</h1>
+  <div align="center">
+</div>
 
-    <!-- About Me -->
-    <div class="about-section">
-      <h2>About Me:</h2>
-      <p>I am a Data Science/Data Analyst Enthusiast with B.E.(CSE) from Chandigarh University(India).</p>
-      <ul>
-        <li>📚 I’m currently learning Data Analyst/Science and exploring the fascinating world of data analysis, data visualization, and Machine Learning.</li>
-        <li>💼 I'm passionate about becoming a Data Scientist and Data Analyst.</li>
-        <li>🌐 I'm always eager to collaborate on exciting data-related projects or discuss technology and data science/analyst topics.</li>
-        <li>📧 Feel free to reach out to me via email: upendrachatuvedi20.com</li>
-        <li>🗯️ You can follow me on LinkedIn: <a href="https://www.linkedin.com/in/upenc07/">LinkedIn</a></li>
-      </ul>
-    </div>
+   
+---
+ <div align="Left">
+   
+👨‍💻 **About** **Me**:
 
-    <!-- Skills -->
-    <div class="skills-section">
-      <h2>Skills:</h2>
-      <ul>
-        <li>📊 Data Analysis</li>
-        <li>📈 Data Visualization and Modeling</li>
-        <li>💻 SQL - MySQL, PostgreSQL</li>
-        <li>📉 Power BI - DAX, Power Query</li>
-        <li>🖥️ Python</li>
-      </ul>
-    </div>
+I am a **Data** **Science**/**Data** **Analyst** **Enthusiast** with a passion for leveraging data to drive insights and solve complex problems. I am constantly expanding my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
-    <!-- Stats -->
-    <div class="stats-section">
-      <h2>🔥 My Stats :</h2>
-      <img src="https://github-readme-stats.vercel.app/api?username=upenc&show_icons=true&theme=radical" alt="Your GitHub Stats">
-    </div>
+- :man_student: I’m a recent Computer Science graduate from Chandigarh University, India.
+- :books: I’m currently learning Data Analysis, Data Visualization, and Machine Learning.
+- :briefcase: I'm passionate about becoming a Data Scientist and Data Analyst.
+- :globe_with_meridians: I'm always eager to collaborate on exciting data-related projects or discuss technology and data science/analyst topics.
+- :email: Feel free to reach out to me via email: upendrachaturvedi20@gmail.com
+- :right_anger_bubble: You can follow me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/upenc07/)
 
-    <!-- Connect with Me -->
-    <div class="connect-section">
-      <h2>Connect with Me</h2>
-      <p>Let's connect and collaborate on exciting projects! 😊</p>
-      <a href="https://www.linkedin.com/in/upenc07/">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
-      </a>
-    </div>
-  </div>
-</body>
-</html>
+---
+**:file_folder: Projects**:
+- :open_file_folder: You can check out some of my work and projects on my GitHub profile.
+---
+
+**Skills**:
+- :bar_chart: Data Analysis
+- :chart_with_upwards_trend: Data Visualization and Modeling
+- :computer: SQL - MySQL, PostgreSQL
+- :chart_with_downwards_trend: Power BI - DAX, Power Query
+- :desktop_computer: Python
+---
+
+**:hammer_and_wrench: Languages and Tools :**
+   <div>
+     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" title="Power BI" alt="Power BI" width="40"height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+     <img src="https://freebiehive.com/wp-content/uploads/2022/04/Microsoft-Excel-Icon-PNG.jpg" title="kaggle" alt=" " width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" title="Pandas" alt="Pandas" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original-wordmark.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="Vscode" alt="Vscode" width="40" height="40"/>&nbsp;
+     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40"height="40"/>&nbsp;
+     <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" title="Windows" alt="Windows" width="40"height="40"/>&nbsp;
+  
+   </div>
+   
+   ---
+
+### :fire: My Stats :   
+   ![Yogesh Kasar GitHub stats](https://github-readme-stats.vercel.app/api?username=upenc&theme=dark&show_icons=true)
+   ---
