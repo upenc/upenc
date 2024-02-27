@@ -25,7 +25,7 @@ I am a **Data** **Science**/**Data** **Analyst** **Enthusiast** with a passion f
 
 - :man_student: I’m a recent Computer Science graduate from Chandigarh University, India.
 - :books: I’m currently learning Data Analysis, Data Visualization, and Machine Learning.
-- :briefcase: I'm passionate about becoming a Data Scientist and Data Analyst.
+- :briefcase: I'm passionate about becoming a Data Analyst and Data Scientist.
 - :globe_with_meridians: I'm always eager to collaborate on exciting data-related projects or discuss technology and data science/analyst topics.
 - :email: Feel free to reach out to me via email: upendrachaturvedi20@gmail.com
 - :right_anger_bubble: You can follow me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/upenc07/)
