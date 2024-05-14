@@ -40,8 +40,11 @@ I am a **Data** **Science**/**Data** **Analyst** **Enthusiast** with a passion f
 - :right_anger_bubble: You can follow me on LinkedIn: [LinkedIn](https://www.linkedin.com/in/upenc07/)
 
 ---
-**:file_folder: Projects**:
-- :open_file_folder: You can check out some of my work and projects on my GitHub profile.
+**Certificate**:
+- Introduction to Microsoft Azure Cloud Services [Coursera](https://www.coursera.org/account/accomplishments/verify/LG434DYS3HEA)
+- SQL for Data Science [Coursera](https://coursera.org/share/02af3112babb8f2baee546c458d091fb)
+- Using Databases with Python [Coursera](https://coursera.org/share/cbc576fcdce5021732b508f1f73dd695)
+- Capstone: Retrieving, Processing, and Visualizing Data with Python [Coursera](https://coursera.org/share/2229f26cd6d1963934007d0927f5bf1a)
 ---
 
 **Skills**:
